@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Abdullah
+- 👀 I’m interested Science and Cs
+- 🌱 I’m currently learning at faculty of engineering
+- 📫 How to reach me ... my facebook -- www.facebook.com/profile.php?id=100075303842819
