@@ -1,4 +1,4 @@
- #### *my road map for learning Ai*
+ # *my road map for learning Ai*
 1. ### Math
     - #### *Linear Algebra (many resources,choose one fits with you)*
         - [ ] [EDX Course](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) (part 1)
@@ -14,7 +14,7 @@
         - [ ] [youtube](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)
     - #### *Static*
         - [ ] [khan acadmy](https://www.khanacademy.org/math/statistics-probability)
----
+***
 2. ### programming
 	1.  Python:
 		- [ ] [FreeCodeCamp](https://www.youtube.com/watch?v=rfscVS0vtbw&t=50s&ab_channel=freeCodeCamp.org)
@@ -38,11 +38,5 @@
 	5.  pandas
 		- [ ] [corey](https://www.youtube.com/watch?v=ZyhVh-qRZPA&list=PL-osiE80TeTsWmV9i9c58mdDCSskIFdDS&ab_channel=CoreySchafer)
 ---
+3. #*coming soon		
 		
-
-
-
-
-
-
-
